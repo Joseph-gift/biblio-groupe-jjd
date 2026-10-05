@@ -6,7 +6,17 @@ Une application en ligne de commande pour gérer facilement le catalogue et les 
 ## Installation
 
 ## Utilisation
-
+```bash
+python bliblio.py init .
+```
+ou
+```bash
+py bliblio.py init .
+```
+résultat attendu:
+```bash
+Base initialisee : 6 livres, 3 membres.
+```
 ## Tests
 
 ## Structure du projet
